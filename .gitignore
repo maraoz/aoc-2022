@@ -1,0 +1,7 @@
+.gitattributes
+*.bak
+*.pkl
+.last_checked
+.gitconfig
+.ipynb_checkpoints/
+day-*/
